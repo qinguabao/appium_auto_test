@@ -14,6 +14,7 @@ git push -u origin main
 
 5、合并代码
 下载的新增的。
+先拉取代码：git pull
 6、查看日志及版本信息
 git log
 查看当前的commit号码
