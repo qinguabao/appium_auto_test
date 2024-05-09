@@ -1,0 +1,13 @@
+上传代码
+1、新建文件夹，编写程序
+git init
+git add .
+git commit -m "name"
+2、将本地git仓库与远程联系起来
+git remote add origin https://github.com/账户名/git仓库
+3、上传代码
+git push -u origin master
+git push -u origin main
+
+
+
