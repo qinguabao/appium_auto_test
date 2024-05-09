@@ -9,5 +9,10 @@ git remote add origin https://github.com/账户名/git仓库
 git push -u origin master
 git push -u origin main
 
+4、下载指定tag版本的代码
+ git clone -b master git://github.com/qinguabao/appium_auto_test.git
+
+5、合并代码
+下载的新增的。
 
 
